@@ -1,3 +1,4 @@
+import DataProcessor
 class Statistic:
     def __init_(self):
         self.name = "NO_NAME"
@@ -43,3 +44,8 @@ class Player:
             print(self.statistics[i])
         print("************")
 
+lj = Player("Luke","Johnson",10,2024,True,False)
+strikeouts = Statistic("AVG",0.333)
+lj.addStatistic(strikeouts)
+lj.printPerson()
+print(DataProcessor.normOf(lj.statistics)**2)
