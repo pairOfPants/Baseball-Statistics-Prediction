@@ -9,8 +9,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 player_rows = soup.find_all('tr',class_='stat_doesnt_meet_min')
 player_rows2 = soup.find_all('tr',class_='stat_meets_min')
 dictionary = {}
-''' stat_type = ['AVG'"OPS","GP-GS",'AB','R','H',"2B",'3B','HR','RBI','TB',"SLG%",'BB','HBP','SO',"GDP",'OB%','SF','SH','SB'] '''
-stat_type = ['AVG']
+stat_type = ['AVG',"OPS","GP-GS",'AB','R','H',"2B",'3B','HR','RBI','TB',"SLG%",'BB','HBP','SO',"GDP",'OB%','SF','SH','SB']
 
 
 def pull_stats(player_rows,dictionary,stat_type):
