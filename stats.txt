@@ -1,0 +1,57 @@
+{
+  "Paris, Derek": {
+    "AVG": ".313"
+  },
+  "Johnson, Luke": {
+    "AVG": ".250"
+  },
+  "Cilio, Michael": {
+    "AVG": ".238"
+  },
+  "Shertel, Jayden": {
+    "AVG": ".100"
+  },
+  "Ong, Nico": {
+    "AVG": ".000"
+  },
+  "Kelly, Connor": {
+    "AVG": ".000"
+  },
+  "Craig, Ben": {},
+  "Rivera, Joshua": {},
+  "Remy, Nick": {},
+  "Dorn, Rob": {},
+  "Sargent, Eddie": {},
+  "Daniels, Sam": {},
+  "Pucek, Joe": {},
+  "Clarke, Matt": {},
+  "Ho, Chris": {},
+  "Selmer, Evan": {},
+  "Krueger, Tony": {
+    "AVG": ".367"
+  },
+  "Taylor, Justin": {
+    "AVG": ".342"
+  },
+  "Easley, Christian": {
+    "AVG": ".307"
+  },
+  "Molessa, Leewood": {
+    "AVG": ".294"
+  },
+  "Trythall, Luke": {
+    "AVG": ".294"
+  },
+  "Diaz, Ian": {
+    "AVG": ".292"
+  },
+  "Ryan, Matt": {
+    "AVG": ".289"
+  },
+  "Swenda, Anthony": {
+    "AVG": ".245"
+  },
+  "Baracani, Dawson": {
+    "AVG": ".228"
+  }
+}
