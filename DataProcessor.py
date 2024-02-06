@@ -1,7 +1,3 @@
-def printData(playerData, playerName):
-    print(playerName + '\'s data:')
-    for i in range(len(playerData)):
-        print(playerData[i])
 
 def innerProduct(v1, v2):
     dotProduct = 0.0
